@@ -1,5 +1,5 @@
 #senai-versoes-colacoracoes
 
 readme de exemplo
-lembrei do comando: git status
-lembrei do comando: commit
+lembrei do comando: git commit
+lembrei do comando status
